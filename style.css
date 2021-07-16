@@ -82,10 +82,7 @@ main {
   justify-content: center;
   padding: 12px;
 }
-.project h3,
-p {
-  padding: 3px 0px 0px 30px;
-}
+
 /* live chat */
 .live-chat {
   display: flex;
@@ -105,6 +102,9 @@ footer {
 footer h1,
 h3 {
   text-align: center;
+}
+.p-tag {
+  padding: 3px 0px 0px 30px;
 }
 .icon {
   display: flex;
